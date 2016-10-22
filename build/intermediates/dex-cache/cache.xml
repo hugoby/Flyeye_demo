@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\rxandroid-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92b4c46bf73b1caff27f0ad2b73fcd5730fa37de">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\rxandroid-1.1.0_8fe798dc00521763102fd6de4de172e881407477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_1162c101d6048d3b1fdbdab70ef759c67bf31b1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="58a92147e3365aa0039fc81a31b87f4957e6a555">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\okio-1.7.0_fa5fd38210eb6c88db798f00673dc907a5913308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\sqlbrite-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="80411084d9962ab5b48b274bb4b49e063095535a">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\sqlbrite-0.6.2_b3be2ecbdbb6e319e0c4aeb61b9098d06c554b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_382c34681a8128879e289da45ae290cbb734f544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_3d91b37c72d31e3979c8765ac4f6f2da08cd702e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\dji-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="551ba42f5f20f93b3b759f72890c7843490d0429">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji-sdk_f1ea81efc814363db97acca498ebb67bc4dd63e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_29fd25b3f4caefa6396bd8e1634af9a38dd32f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03773badcb9e99ad699db657fa0e20cafbf774ef">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\okhttp-3.2.0_cd4909b9266e3654bcc296c9d6749c53486d2612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\dji_eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="91a5399115cedf41ebd53be7c96e424ac3aed1a8">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji_eventbus_be8aa164e24c9d40aa89b6e1de48da0466a7d5f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\rxjava-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4f11e8e7dd89f5f87e5d81000582eabb071da91">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\rxjava-1.1.2_c723adb21ced422ad5b09b31fac46591db7c8330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b55150f9b025eebdddb6426bb4e85e673af338a3">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\retrofit-2.0.1_070bea1648ebaf3320bcf8defa235ce27f3ad5da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_2bc4b9de47873b36dc1a3e99522b84552362ef5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_c841c7046c093688d443a85acc3d0c0b1761a79e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04a5d1f576a1cec9c96c9c29e3dd62fae32958fd">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c4ade5214b56be5aa2047b33e0cb93013b5055d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_3ca49f99a426eb974eff7f28b91df6cc93d6e8ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\dji_gson.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="729a9cf81838d286b6098dc9c33d264d5db48a26">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji_gson_07de9e214d7101bee9b57eef8622ae1960a51fce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\FPVDemo\dJISDKLIB\unspecified\jars\libs\converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="56caaeea09d3e406f6160972ff5d3e6c0e6f139b">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\converter-gson-2.0.1_741ed015b14bd84c2cc4cfa49f6df90773c7e1b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_549e880fd9cde96c089021426bc763ad440e47c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6eb29af6164a3264bbd7a758ec77fe6855df8606">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_90f548a6f2a129aba4144ebd53c740ea617cfd17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\document\Projects\DoubleMe\Flyeye\code\Android-FPVDemo-master\FPVDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_c33dd4c6341b1b02af63c0a3ae1ffbe0cc923434\classes.dex" />
+    </item>
+
+</items>
