@@ -32,12 +32,12 @@
         "source": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_ins.h264"
     },
     {
-        "merged": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm220.h264",
-        "source": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm220.h264"
-    },
-    {
         "merged": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_cam_cap_4p.h264",
         "source": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_cam_cap_4p.h264"
+    },
+    {
+        "merged": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm220.h264",
+        "source": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm220.h264"
     },
     {
         "merged": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_wm220_1280x720.h264",

@@ -20,12 +20,12 @@
         "source": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_exit.xml"
     },
     {
-        "merged": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_in.xml",
-        "source": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_in.xml"
-    },
-    {
         "merged": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_in.xml",
         "source": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_in.xml"
+    },
+    {
+        "merged": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_in.xml",
+        "source": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_in.xml"
     },
     {
         "merged": "D:\\document\\Projects\\DoubleMe\\Flyeye\\code\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hold.xml",

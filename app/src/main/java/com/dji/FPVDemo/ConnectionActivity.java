@@ -6,11 +6,15 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.content.pm.ActivityInfo;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.pm.ActivityInfoCompat;
 import android.util.Log;
 import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.TextView;
 
@@ -22,14 +26,14 @@ public class ConnectionActivity extends Activity implements View.OnClickListener
     private static final String TAG = ConnectionActivity.class.getName();
 
     private TextView mTextConnectionStatus;
-    private TextView mTextProduct;
+//    private TextView mTextProduct;
     private Button mBtnOpen;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // When the compile and target version is higher than 22, please request the
+        // When the compile and target version is higher than 22, pleastextView2e request the
         // following permissions at runtime to ensure the
         // SDK work well.
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
@@ -45,8 +49,12 @@ public class ConnectionActivity extends Activity implements View.OnClickListener
                     , 1);
         }
 
-        setContentView(R.layout.activity_connection);
+        //Hugo set full screen 20161028
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        //end 20161028
 
+        setContentView(R.layout.activity_connection);
         initUI();
 
         // Register the broadcast receiver for receiving the device connection's changes.
@@ -88,11 +96,10 @@ public class ConnectionActivity extends Activity implements View.OnClickListener
     private void initUI() {
 
         mTextConnectionStatus = (TextView) findViewById(R.id.text_connection_status);
-        mTextProduct = (TextView) findViewById(R.id.text_product_info);
+//        mTextProduct = (TextView) findViewById(R.id.text_product_info);
         mBtnOpen = (Button) findViewById(R.id.btn_open);
         mBtnOpen.setOnClickListener(this);
-        mBtnOpen.setEnabled(false);
-
+        mBtnOpen.setEnabled(true);
     }
 
     protected BroadcastReceiver mReceiver = new BroadcastReceiver() {
@@ -110,29 +117,28 @@ public class ConnectionActivity extends Activity implements View.OnClickListener
             Log.v(TAG, "refreshSDK: True");
             mBtnOpen.setEnabled(true);
 
-            String str = mProduct instanceof DJIAircraft ? "DJIAircraft" : "DJIHandHeld";
-            mTextConnectionStatus.setText("Status: " + str + " connected");
+//            String str = mProduct instanceof DJIAircraft ? "DJIAircraft" : "DJIHandHeld";
+            String str=" ";
+            mTextConnectionStatus.setText("Status: " + str + "connected");
 
-            if (null != mProduct.getModel()) {
-                mTextProduct.setText("" + mProduct.getModel().getDisplayName());
-            } else {
-                mTextProduct.setText(R.string.product_information);
-            }
+//            if (null != mProduct.getModel()) {
+//                mTextProduct.setText("" + mProduct.getModel().getDisplayName());
+//            } else {
+//                mTextProduct.setText(R.string.product_information);
+//            }
 
         } else {
             Log.v(TAG, "refreshSDK: False");
-            mBtnOpen.setEnabled(false);
+            mBtnOpen.setEnabled(true);
 
-            mTextProduct.setText(R.string.product_information);
-            mTextConnectionStatus.setText(R.string.connection_loose);
+//            mTextProduct.setText(R.string.product_information);
+//            mTextConnectionStatus.setText(R.string.connection_loose);
         }
     }
-
 
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-
             case R.id.btn_open: {
                 Intent intent = new Intent(this, MainActivity.class);
                 startActivity(intent);
@@ -142,5 +148,4 @@ public class ConnectionActivity extends Activity implements View.OnClickListener
                 break;
         }
     }
-
 }

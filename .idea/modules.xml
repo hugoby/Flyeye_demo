@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/FPVDemo.iml" filepath="$PROJECT_DIR$/FPVDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dJISDKLIB/dJISDKLIB.iml" filepath="$PROJECT_DIR$/dJISDKLIB/dJISDKLIB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.achartengine/org.achartengine.iml" filepath="$PROJECT_DIR$/org.achartengine/org.achartengine.iml" />
     </modules>
   </component>
 </project>
